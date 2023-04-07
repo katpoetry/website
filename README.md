@@ -12,3 +12,5 @@ other users of Git.
 
 
 Michael Hartl. Learn Enough Git to Be Dangerous (Kindle Locations 761-765). 
+
+for more information check git's official documentation at https://git-scm.com/doc
